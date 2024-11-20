@@ -9,7 +9,7 @@
         <h1> Sample PHP</h1>
         <p>Converting LA1 (pyton file) to PHP (LA3)</p>
         <?php
-            echo "Hello World <br>";
+            echo "Hello World <br>";  // Using <br> to make it organized, <br> is like also the same as \n
 
             $age = 20;
             $fullname = "Vinico Winn A. Sumbad <br>";
